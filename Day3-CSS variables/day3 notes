@@ -1,0 +1,22 @@
+/*
+ <label for="spacing">Spacing:</label>
+  <input id="spacing" type="range" name="spacing" min="10" max="200" value="10" data-sizing="px">
+
+here label is used for increasing the size of input elemnt 
+The label text is not only visually associated with its corresponding text input; 
+it is programmatically associated with it too. This means that, for example, a 
+ reader will read out the label when the user is focused on the form input, making 
+it easier for an assistive technology user to understand what data should be entered.
+
+2.You can click the associated label to focus/activate the input,
+ as well as the input itself. This increased hit area provides an advantage to
+ anyone trying to activate the input, including those using a touch-screen device.
+
+ 3.as we can see there different types of inputs "range"is one of that
+ 4.type="color" also exist
+
+ 5.dataset is imporatant we can define any value using data prefix data-name data-place etc etc
+ and these value will be present in the dataset object
+ 6.document.documentElement to select each element of documentElement
+ 7. style.setProperty(property,value) to set the property of any element
+*/

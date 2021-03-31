@@ -1,0 +1,12 @@
+/*
+  1. transform-origin:right
+     it is use to provide the point about which something rotates by default
+     it is rotated about is center but we can choose the point using transform-origin
+     2. setInterval(setTime,1000);
+     so the function setTime will called every 1 sec.
+     3. const day=new Date();
+        const hour=day.getHour();
+        const minute=day.getMinute();
+
+
+*/
